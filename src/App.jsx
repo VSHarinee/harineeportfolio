@@ -127,8 +127,8 @@ const [openCertificates, setOpenCertificates] = useState({});
     {
       degree: 'B.E | Computer Science Engineering',
       institution: 'Sona College of Technology',
-      period: '2022 - Present',
-      score: 'CGPA: 8.11'
+      period: '2022 - 2026',
+      score: 'CGPA: 8.22'
     },
     {
       degree: '12th | Computer Science and Maths',
