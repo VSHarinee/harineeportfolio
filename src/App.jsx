@@ -69,9 +69,9 @@ const [openCertificates, setOpenCertificates] = useState({});
     {
       title: 'AI Intern',
       company: 'ZAdroit IT Solutions Pvt. Ltd.',
-      period: 'Jul 2025 – Present',
+      period: 'Jul 2025 – Feb 2026',
       type: 'Hybrid',
-      description: 'Working on AI-driven projects'
+      description: 'Worked on AI-driven projects'
     },
     {
       title: 'Intern',
